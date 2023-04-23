@@ -1,4 +1,4 @@
-# read and shoe image ----
+# read and show image ----
 
 # import OpenCV
 import cv2
